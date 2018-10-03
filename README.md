@@ -12,7 +12,7 @@ This is a flask api which takes input variable parameters and return capacity re
 # run api locally
 
   
-    ➜ python capacity_planner.py
+    ➜ python es_sizer.py
 
 # requirments
 python 2.7
