@@ -29,7 +29,7 @@ This is a flask api which takes input various parameters and return capacity res
     }
     ```
 
-#run api locally
+# run api locally
 
     ```
     ➜ python capacity_planner.py
