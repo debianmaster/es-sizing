@@ -1,5 +1,5 @@
 # es storage sizer
-This is a flask api which takes input various parameters and return capacity response
+This is a flask api which takes input variable parameters and return capacity response
 
 # Endpoints
 
